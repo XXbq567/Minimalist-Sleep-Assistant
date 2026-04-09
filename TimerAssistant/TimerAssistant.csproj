@@ -11,10 +11,10 @@
 		<RootNamespace>TimerAssistant</RootNamespace>
 		<AssemblyName>极简睡眠</AssemblyName>
 
-		<Authors>Bowen_Wang/XXbq</Authors>
-		<Company>XXbq</Company>
+		<Authors>XXbq567/XXbq567</Authors>
+		<Company>XXbq567</Company>
 		<Description>一款轻量级的睡眠/关机定时助手</Description>
-		<Copyright>Copyright © 2026 WBL</Copyright>
+		<Copyright>Copyright © 2026 XXbq567</Copyright>
 		<Version>1.0.6</Version>
 	</PropertyGroup>
 
