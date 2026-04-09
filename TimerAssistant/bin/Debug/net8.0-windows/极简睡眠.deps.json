@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "极简睡眠/1.0.6": {
+        "runtime": {
+          "极简睡眠.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "极简睡眠/1.0.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
