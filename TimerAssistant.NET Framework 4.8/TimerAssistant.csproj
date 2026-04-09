@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net48</TargetFramework>
+		<UseWPF>true</UseWPF>
+
+		<ApplicationIcon>app.ico</ApplicationIcon>
+		<RootNamespace>TimerAssistant</RootNamespace>
+		<AssemblyName>极简睡眠</AssemblyName>
+		<Authors>XXbq567</Authors>
+		<Company>XXbq567</Company>
+		<Description>一款极致轻量的睡眠/关机定时助手 (基于 .NET 4.8)</Description>
+		<Copyright>Copyright © 2026 XXbq567</Copyright>
+		<Version>1.1.0</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Resource Include="app.ico" />
+	</ItemGroup>
+
+</Project>
