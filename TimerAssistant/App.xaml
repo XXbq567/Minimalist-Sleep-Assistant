@@ -1,8 +1,0 @@
-﻿<Application x:Class="TimerAssistant.App"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             Startup="Application_Startup">
-    <Application.Resources>
-        <SolidColorBrush x:Key="PrimaryColor" Color="#2F549A"/>
-    </Application.Resources>
-</Application>

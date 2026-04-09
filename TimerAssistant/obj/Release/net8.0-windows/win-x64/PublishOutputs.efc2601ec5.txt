@@ -1,2 +1,0 @@
-C:\Users\WBLbo\Desktop\TimerAssistant\TimerAssistant\bin\Release\net8.0-windows\win-x64\publish\极简睡眠.pdb
-C:\Users\WBLbo\Desktop\TimerAssistant\TimerAssistant\bin\Release\net8.0-windows\win-x64\publish\极简睡眠.exe
