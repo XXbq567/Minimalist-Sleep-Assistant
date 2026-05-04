@@ -39,7 +39,7 @@
 ## 🚀 拿走就用 (Quick Start)
 
 ### 给普通用户：
-1. 去右侧的 **[Releases](#)** 页面 (*发版后可以把这里替换为真实链接*)。
+1. 去右侧的 **[Releases]([#](https://github.com/XXbq567/Minimalist-Sleep-Assistant/releases))** 页面 。
 2. 下载 `极简睡眠.exe`。
 3. 双击运行，设置好时间，安心睡觉吧！
 
